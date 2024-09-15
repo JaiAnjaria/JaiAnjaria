@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaiAnjaria
-- 👀 I’m interested in Web and Game development
+- 👀 I’m interested in Building products
 - 🌱 I’m currently learning React
 
 
